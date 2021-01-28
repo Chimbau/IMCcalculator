@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">IMCcalculator</string>
+    <string name="imc">IMC</string>
+    <string name="classificacao">Classificação</string>
+    <string name="imc1">Menor que 18,5</string>
+    <string name="imc2">Entre 18,5 e 24,9</string>
+    <string name="imc3">Entre 25,0 e 29,9</string>
+    <string name="imc4">Entre 30,0 e 39,9</string>
+    <string name="imc5">Maior que 40,0</string>
+    <string name="cla1">Magreza</string>
+    <string name="cla2">Normal</string>
+    <string name="cla3">Sobrepeso</string>
+    <string name="cla4">Obesidade</string>
+    <string name="cla5">Obesidade grave</string>
+    <string name="ImcLabel">IMC :</string>
+    <string name="imcValue">-</string>
+    <string name="insertTittle">Preencha os campos</string>
+    <string name="altura">Altura :</string>
+    <string name="peso">Peso :</string>
+    <string name="submitButton">Calcular</string>
+    <string name="calculador_imc">Calculador de IMC</string>
+    <string name="sexo">Sexo :</string>
+    <string-array name="spinner_list">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+    <string name="about_url">https://www.euro.who.int/en/health-topics/disease-prevention/nutrition/a-healthy-lifestyle/body-mass-index-bmi</string>
+    <string name="activityButtonText">Inserir dados</string>
+    <string name="percentText1">Você possui um IMC</string>
+    <string name="percenteValue">0%</string>
+    <string name="percentText2">acima da média brasileira para o sexo Masculino</string>
+    <string name="noteButtonText">Criar anotação</string>
+    <string name="aboutButtonText">Sobre o IMC</string>
+    <string name="aboveText">acima da média brasileira para o sexo </string>
+    <string name="belowText">abaixo da média brasileira para o sexo </string>
+    <string name="aboutToast">Insira os dados para calcular o IMC antes de criar uma anotação</string>
+</resources>
